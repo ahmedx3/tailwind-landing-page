@@ -9,6 +9,7 @@ module.exports = {
       sans: ['sans-serif'],
       roboto: ['Roboto', 'sans-serif'],
       Lato: ['Lato', 'sans-serif'],
+      Poppins: ['Poppins', 'sans-serif'],
     },
     extend: {},
   },
