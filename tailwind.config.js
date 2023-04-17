@@ -2,6 +2,14 @@
 module.exports = {
   content: ['./src/**/*.{html,js}'],
   theme: {
+    container: {
+      center: true,
+    },
+    fontFamily: {
+      sans: ['sans-serif'],
+      roboto: ['Roboto', 'sans-serif'],
+      Lato: ['Lato', 'sans-serif'],
+    },
     extend: {},
   },
   plugins: [],
